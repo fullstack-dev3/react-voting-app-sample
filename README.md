@@ -1,5 +1,7 @@
 # Voting Application
 
+Visit the site here: https://custom-voting-sample.netlify.app
+
 ## Install and Boot the Application
 
 1. Ensure you have `npm` installed.
